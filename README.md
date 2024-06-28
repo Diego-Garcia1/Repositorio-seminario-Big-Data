@@ -1,7 +1,7 @@
 # Repositorio-seminario-Big-Data
 - 👋 Hi, I’m Diego Garcia
 
-- 👀 I’m interested in Big Data and project
+- 👀 I’m interested in Big Data and projects
 
 - 🌱 I’m currently learning ...
 
